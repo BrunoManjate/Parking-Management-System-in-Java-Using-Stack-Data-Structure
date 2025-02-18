@@ -46,7 +46,6 @@ Images of the system.
 
 ![Screenshot (149)](https://github.com/BrunoManjate/Parking-Management-System-in-Java-Using-Stack-Data-Structure/assets/87826515/090db4a2-286c-4d43-b5bc-c2372724c965)
 
-![Screenshot (151)](https://github.com/BrunoManjate/Parking-Management-System-in-Java-Using-Stack-Data-Structure/assets/87826515/27503bdd-8e0d-42e5-840b-9892331f83cf)
 ![Screenshot (152)](https://github.com/BrunoManjate/Parking-Management-System-in-Java-Using-Stack-Data-Structure/assets/87826515/8310e31d-0d6a-4cee-9477-bfe6a9e23b3f)
 
 

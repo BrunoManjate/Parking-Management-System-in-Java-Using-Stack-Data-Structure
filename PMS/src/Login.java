@@ -184,11 +184,11 @@ public class Login extends JFrame
 		{
 			if(ev.getSource()==emitir)
 			{
-				if(!passwordField.getText().equalsIgnoreCase("20180422") && !passwordField.getText().equalsIgnoreCase("123456"))
+				if(!passwordField.getText().equalsIgnoreCase("") && !passwordField.getText().equalsIgnoreCase("123456"))
 					JOptionPane.showMessageDialog(null,"Codigo Invalido!","Erro Codigo",JOptionPane.ERROR_MESSAGE);
 				else
 				{
-					if(!nome.getText().equalsIgnoreCase("Bruno F.Manjate") && !nome.getText().equalsIgnoreCase("Francisco Saiete") && !nome.getText().equalsIgnoreCase("Henrique Rosa") && !nome.getText().equalsIgnoreCase("EDA2"))
+					if(!nome.getText().equalsIgnoreCase("") && !nome.getText().equalsIgnoreCase("Francisco Saiete") && !nome.getText().equalsIgnoreCase("Henrique Rosa") && !nome.getText().equalsIgnoreCase("EDA2"))
 					{
 						JOptionPane.showMessageDialog(null,"Nome Invalido!\nNao e usuario desse Sistema","Erro Nome",JOptionPane.ERROR_MESSAGE);
 						nome.setText("");

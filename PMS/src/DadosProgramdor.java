@@ -51,9 +51,9 @@ public class DadosProgramdor extends JFrame
      	x[0][0] = "Nome : ";
      	x[0][1] = "Bruno F.Manjate";
      	x[1][0] = "Codigo : ";
-     	x[1][1] = "2020422";
+     	x[1][1] = "";
      	x[2][0] = "numero : ";
-     	x[2][1] = "845603981";	
+     	x[2][1] = "";	
      	x[3][0] = "Email : ";
      	x[3][1] = "brunomanjate2@gmail.com";
      	x[4][0] = "";
@@ -61,9 +61,9 @@ public class DadosProgramdor extends JFrame
      	x[5][0] ="Nome : ";
      	x[5][1] ="Kelvin Langa";
      	x[6][0]	="Codigo : ";
-     	x[6][1] ="20160787";
+     	x[6][1] ="";
      	x[7][0] ="Numero : ";
-     	x[7][1] ="842209662";
+     	x[7][1] ="";
      	x[8][0] ="Email :";
      	x[8][1] ="kelvinLanga20@gmail.com";
      	x[9][0] ="";
@@ -71,9 +71,9 @@ public class DadosProgramdor extends JFrame
      	x[10][0] = "Nome :";
      	x[10][1] = "Deimos White";
      	x[11][0] = "Codigo:";
-     	x[11][1] = "20180372";
+     	x[11][1] = "";
      	x[12][0] = "Numero";
-     	x[12][1] = "84819987";
+     	x[12][1] = "";
      	x[13][0] = "Email:";
      	x[13][1] = "deimosrenzo200@gmail.com";
      	x[14][0] = "";
@@ -81,9 +81,9 @@ public class DadosProgramdor extends JFrame
      	x[15][0] = "Nome : ";
      	x[15][1] = "Matilde Nguenha";
      	x[16][0] = "Codigo:";
-     	x[16][1] = "20180274";
+     	x[16][1] = "";
      	x[17][0] = "Numero : ";
-     	x[17][1] = "820473363";
+     	x[17][1] = "";
      	x[18][0] = "Email:";
      	x[18][1] = "Nguenha.titi@gmail.com";
      	x[19][0] = "";

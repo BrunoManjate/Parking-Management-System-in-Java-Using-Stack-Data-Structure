@@ -1,0 +1,31 @@
+Bem vindo Ao Parque De Estacionamento
+Este programa permite lhe fazer a gestao do labolatorio atraves da seguintes funcionalidades:
+
+Emitir Dados:
+Essa funcionalidade vai poder:
+- Introduzir Dados de um Viatura a Ser Estacionada no parque
+
+Remover Viatura:
+- Remover uma Viatura no parque
+
+Visualizar Dados
+Essa funcionalidade vai poder:
+- Visualizar Dados de Todas Viaturas
+
+Calculos
+Essa funcionalidade vai poder:
+- Quantidade Viaturas Estacionadas no Parque;
+- Quantidade De Viaturas por Tipo
+- Valor total por tipo de Viatura
+- Valor Total da Empresa 
+
+Dados do Programador
+Essa funcionalidade contem:
+- Uma tabela Com Dados dos Programadores 
+
+SOBRE:
+Essa funcionalidade contem:
+- Expecificaoes do programa;
+
+Programa Desenvolvido pela TubVision
+"Para um Mundo Melhor a Mudanca comeca em mim!"

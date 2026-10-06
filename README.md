@@ -68,11 +68,27 @@ When a small business operates well, the entire community benefits.
 
 ## How it looks
 
-![Screenshot](https://github.com/BrunoManjate/Parking-Management-System-in-Java-Using-Stack-Data-Structure/assets/87826515/5f771eeb-9915-455e-b349-b4996170a410)
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/6b365677-195d-4940-a196-240ac5608fcf" />
 
-![Screenshot](https://github.com/BrunoManjate/Parking-Management-System-in-Java-Using-Stack-Data-Structure/assets/87826515/c0833810-4167-4c71-a9a0-8b2839033b89)
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/3c5bdde0-525c-4f86-b206-17d07fabde04" />
 
-![Screenshot](https://github.com/BrunoManjate/Parking-Management-System-in-Java-Using-Stack-Data-Structure/assets/87826515/c9f79339-390a-461a-90fc-b818e7dc6a6b)
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/1d7693b5-f52f-40f8-918f-3cff4e35feef" />
+
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/d8e6bb48-b809-4b7b-9969-8c0fc0c56b9a" />
+
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/3587757a-ed57-4be2-ae46-acd234c455a3" />
+
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/949d84ea-09a4-43bf-ae6d-c32d7c9300ab" />
+
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/12b96f6c-7320-4c30-b80a-c15d57c41704" />
+
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/1e077a0a-fac5-4445-8d5e-4fb700d170b9" />
+
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/faa99fd1-03a9-4031-a011-c64b52399659" />
+
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/fdc477b4-de82-433a-a5f9-adf4a59354e9" />
+
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/c5394545-6c84-4fa8-9da4-9b321fc6035e" />
 
 ---
 

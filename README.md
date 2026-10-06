@@ -113,6 +113,8 @@ If you are considering a similar solution for your organisation, I am available 
 **LinkedIn:** [Bruno Manjate](https://www.linkedin.com/in/bruno-f-manjate-150089241)
 **Location:** Maputo, Mozambique
 
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/66569748-7bce-48a8-8319-a9e3ed61b036" />
+
 ---
 
 ### Useful solutions. Real value.

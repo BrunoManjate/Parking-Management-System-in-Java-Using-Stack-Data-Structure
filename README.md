@@ -1,6 +1,8 @@
 # Parking Management System
 ### A digital solution for parking lot management
 
+<img width="1222" height="864" alt="Image" src="https://github.com/user-attachments/assets/1d7693b5-f52f-40f8-918f-3cff4e35feef" />
+
 ---
 
 ## Why this system was created
